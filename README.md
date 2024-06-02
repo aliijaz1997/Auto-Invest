@@ -33,7 +33,7 @@ Follow these steps to set up and run the project locally:
 2. Navigate to the project directory:
 
    ```bash
-   cd dashboard-project
+   cd auto-invest
    ```
 
 3. Install dependencies using npm or yarn:
